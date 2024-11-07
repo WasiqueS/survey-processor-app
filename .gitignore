@@ -144,6 +144,8 @@ data/*.txt
 
 # But do not ignore system_prompt.txt
 !data/system_prompt.txt
+!data/the_value_of_long_hair.txt
+!data/the_value_of_short_hair.txt
 
 # Optional: Ignore other data files or directories if needed
 # data/large_files/
